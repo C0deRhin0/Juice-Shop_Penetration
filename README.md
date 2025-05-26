@@ -1,5 +1,3 @@
-transform into github .md syntax please:
-
 # Burp Suite Pentesting
 
 A personal exploration into web vulnerability testing using **Burp Suite** against OWASP’s intentionally vulnerable Juice Shop web application. This project showcases experimentation with HTTP interception, request tampering, and various attack simulations, all aimed at learning core web security concepts.
